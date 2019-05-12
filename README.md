@@ -2,7 +2,7 @@
 
 This repository contains the code Jupyter Notebook of the thesis: Evaluating Sentence Embeddings on Syntactic Information Through Representational Similarity Analysis.
 
-The notebook expect to process the Penn Treebank data set, however, this data set is not publicly available. 
+The notebook expects the Penn Treebank data set, however, this data set is not publicly available. 
 
 The notebook is dependent on the following packages:
 * nltk
