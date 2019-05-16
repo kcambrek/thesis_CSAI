@@ -16,6 +16,7 @@ The notebook is dependent on the following packages:
 * scipy
 * pandas
 * [jsonlines](https://pypi.org/project/jsonlines/ "Named link title")
+* [BERT](https://github.com/google-research/bert "Named link title")
 
 Further, the analysis in the notebook is dependent on the pre-trained BERT model and the pre-trained uni-skip and bi-skip models.
 
