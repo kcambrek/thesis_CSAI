@@ -22,10 +22,8 @@ Further, the analysis in the notebook is dependent on the pre-trained BERT model
 
 The BERT model can be downloaded via the following link:
 https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
-
 Store the contents in a folder named: "uncased_L-12_H-768_A-12"
 
-The Skip-Thought models can be downloade via the following instructions:
+The Skip-Thought models can be download via the following instructions:
 https://github.com/tensorflow/models/tree/master/research/skip_thoughts#download-pretrained-models-optional
-
 Store the contents in a folder named: "skipthought"
